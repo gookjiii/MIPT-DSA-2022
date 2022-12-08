@@ -1,0 +1,6 @@
+# ninja log v5
+5	931	6873652857274477	CMakeFiles/Contest1.dir/main.cpp.obj	5e1527f5f38357ea
+447	543	6873877856835642	Contest1.exe	d22f8327aacb3b1e
+0	139	6876114014299265	build.ninja	52ce0515d0b2d985
+3	398	6873854976518942	CMakeFiles/Contest1.dir/2.cpp.obj	7096077baf5b76f6
+2	447	6873877855926876	CMakeFiles/Contest1.dir/3.cpp.obj	a103e4a45858d685

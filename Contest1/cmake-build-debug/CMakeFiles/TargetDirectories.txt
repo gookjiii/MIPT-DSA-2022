@@ -1,0 +1,3 @@
+D:/Year 2_MIPT_CPP_2021/Contest1/cmake-build-debug/CMakeFiles/Contest1.dir
+D:/Year 2_MIPT_CPP_2021/Contest1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Year 2_MIPT_CPP_2021/Contest1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
